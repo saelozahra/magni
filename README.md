@@ -1,7 +1,7 @@
-# magni
+# [Magni](http://www.balit.ir/magni)
 ## For zoomin all HTML document not just Images
 
-**What is Magni:** Magni let you to zoom all html document not just images,  and it is a lens magnifier, something like [this](http://h10025.www1.hp.com/ewfrf-JAVA/Doc/images/823/c03671284.jpg)that is on Windows, and it is really different with other magnifier. [Why I made this](http://stackoverflow.com/questions/30070035/magnifier-for-html-document)
+**What is Magni:** Magni let you to zoom all html document not just images,  and it is a lens magnifier, something like  [this](http://h10025.www1.hp.com/ewfrf-JAVA/Doc/images/823/c03671284.jpg) that is on Windows, and it is really different with other magnifier. [Why I made this](http://stackoverflow.com/questions/30070035/magnifier-for-html-document)
 # [DEMO](http://www.balit.ir/magni)
 
 [Magni](www.balit.ir/magni) is so easy, download the **.js** file from [here](https://raw.githubusercontent.com/MohammadKermani/magni/master/magni.js).
