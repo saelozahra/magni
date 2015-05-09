@@ -19,3 +19,8 @@ This is the magni function and argumants with description:
 	        <li><b>shadow:</b> If you need the lens have a box-shadow you can give<i>yes</i> for shadow, if you don't need it give <i>no</i>.</li>
 	</ul>
 
+**Examples:**
+
+`$('body').magni(2,200,200,'circle','rgba(125,125,125,0.5)',2,'no');`
+
+`$('body').magni(4,200,200,'Circle','red',2,'yes');")`
