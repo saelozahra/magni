@@ -1,8 +1,10 @@
 # magni
 ## For zoomin all HTML document not just Images
 
+**What is Magni: **Magni let you to zoom all html document not just images,  and it is a lens magnifier, something like [this](http://h10025.www1.hp.com/ewfrf-JAVA/Doc/images/823/c03671284.jpg) that is on Windows, and it is really diffrent with other magnifier. .[Why I made this](http://stackoverflow.com/questions/30070035/magnifier-for-html-document)
+# [DEMO](http://www.balit.ir/magni)
 
-[Magni](www.balit.ir/magni) is so easy, download it from [here](https://raw.githubusercontent.com/MohammadKermani/magni/master/magni.js).
+[Magni](www.balit.ir/magni) is so easy, download the **.js** file from [here](https://raw.githubusercontent.com/MohammadKermani/magni/master/magni.js).
 
 This is the magni function and argumants with description:
 `$('element').magni(scale,width,height,lensType,color,borderSize,shadow);`
@@ -16,3 +18,4 @@ This is the magni function and argumants with description:
 	        <li><b>borderSize:</b>its name is clear and you should just give a <i>number</i> or <i>default</i>.</li>
 	        <li><b>shadow:</b> If you need the lens have a box-shadow you can give<i>yes</i> for shadow, if you don't need it give <i>no</i>.</li>
 	</ul>
+
